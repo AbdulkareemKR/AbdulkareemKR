@@ -1,14 +1,13 @@
-![](https://github.com/Raed-Alshehri/Raed-Alshehri/blob/main/Raed%20Alshehri.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;....This+is+Raed+Alshehri....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;....I+am+Abdulkareem....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h1 align="center">Hi 👋, I'm Raed Alshehri</h1>
-<h3 align="center">Undergraduate Researcher and Management Information Systems student from Saudi Arabia</h3>
+<h1 align="center">Hi 👋, I'm Abdulkareem Alramlawi</h1>
+<h3 align="center">Software Enginerring at Garage company. Flutter & React Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **several data science projects using Python and R**
+- 🔭 I’m currently working ar garage company 
 
 - 🌱 I’m currently learning **how to build E-Commerce website with Django**
 
@@ -18,7 +17,7 @@
 
 - 📫 How to reach me: **Alshehri.RaedA@gmail.com**
 
-- 📄 Know about my experiences: [Here](https://www.linkedin.com/in/raedalshehri/)
+- 📄 visit my portfolio [Here](https://abdulkareemkr.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
